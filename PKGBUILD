@@ -4,8 +4,8 @@
 # Contributor: Mark Foxwell <fastfret79@archlinux.org.uk>
 
 pkgname=cdm-git-synchronous
-_pkgname="cdm-synchronous"
-pkgver=2016.10.17
+_pkgname="cdm"
+pkgver=2016.09.02
 pkgrel=1
 pkgdesc="The Console Display Manager"
 arch=('any')
