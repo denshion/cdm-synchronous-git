@@ -5,7 +5,7 @@
 
 pkgname=cdm-git-synchronous
 _pkgname="cdm"
-pkgver=2016.09.02
+pkgver=2016.10.07
 pkgrel=1
 pkgdesc="The Console Display Manager"
 arch=('any')
@@ -16,7 +16,7 @@ depends=('dialog' 'xorg-xinit' 'xorg-xdpyinfo' 'kbd')
 provides=('cdm')
 conflicts=('cdm')
 backup=('etc/cdmrc')
-source=('git://github.com/denshion/cdm.git')
+source=('git://github.com/denshion/cdm.git#branch=synchronous')
 md5sums=('SKIP')
 epoch=1
 
